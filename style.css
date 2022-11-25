@@ -1,0 +1,26 @@
+body{
+  background:red;
+}
+
+form label{
+  displey: block;
+  font-size: 20px;
+}
+table{
+    background-color:green;
+    }
+
+table tr td {
+  boder: 2px solid;
+  border-color:red;
+  font-size:24px;
+
+}
+
+
+
+
+
+
+
+
